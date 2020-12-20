@@ -1,8 +1,8 @@
-[![commit](https://img.shields.io/github/last-commit/fcobello/proxy_nodejs?style=plastic)](https://github.com/fcobello/proxy_nodejs)
-![Workflow](https://img.shields.io/github/workflow/status/fcobello/proxy_nodejs/Node.js%20CI)
-![License](https://img.shields.io/github/license/fcobello/proxy_nodejs)
+[![commit](https://img.shields.io/github/last-commit/fcobello/proxy-nodejs?style=plastic)](https://github.com/fcobello/proxy-nodejs)
+![Workflow](https://img.shields.io/github/workflow/status/fcobello/proxy-nodejs/Node.js%20CI)
+![License](https://img.shields.io/github/license/fcobello/proxy-nodejs)
 
-# node_proxy
+# proxy-nodejs
 
 Um proxy simples para requisições HTTP/HTTPS, para uso com AWS Lambda
 
