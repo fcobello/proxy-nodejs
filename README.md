@@ -1,6 +1,6 @@
-[![commit](https://img.shields.io/github/last-commit/fcobello/sample_mtls?style=plastic)](https://github.com/fcobello/node_proxy)
-![Workflow](https://img.shields.io/github/workflow/status/fcobello/node_proxy/Node.js%20CI)
-![License](https://img.shields.io/github/license/fcobello/node_proxy)
+[![commit](https://img.shields.io/github/last-commit/fcobello/proxy_nodejs?style=plastic)](https://github.com/fcobello/proxy_nodejs)
+![Workflow](https://img.shields.io/github/workflow/status/fcobello/proxy_nodejs/Node.js%20CI)
+![License](https://img.shields.io/github/license/fcobello/proxy_nodejs)
 
 # node_proxy
 
